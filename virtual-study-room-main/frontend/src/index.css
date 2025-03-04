@@ -1,0 +1,22 @@
+/* index.css */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header, footer {
+  background-color: #343a40;
+  color: #fff;
+}
+
+header a, footer a {
+  color: #fff;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.room-card {
+  margin-bottom: 20px;
+}
+
